@@ -2,7 +2,8 @@
 
 * This project is a hoby project.
 
-<img src="Images/Car1.jpg" width="500">
+<img src="Images/Car1.jpg" width="800">
+<img src="Images/Car2.jpg" width="800">
 
 # Car components
 * 1x Arduino Uno
