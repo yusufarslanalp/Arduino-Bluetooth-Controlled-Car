@@ -1,7 +1,11 @@
 # Arduino-Bluetooth-Controlled-Car
 
 * This project is a hoby project.
+* This car controlled remotely by android phone.
 * Project Video: https://youtu.be/ukCGyJJ3isk
+
+# How to works
+1- this is
 
 <img src="Images/Car1.jpg" width="800">
 <img src="Images/Car2.jpg" width="800">
