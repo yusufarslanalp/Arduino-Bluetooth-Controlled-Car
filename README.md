@@ -5,6 +5,9 @@
 * Project Video: https://youtu.be/ukCGyJJ3isk
 * [source code](bluetooth_car.ino)
 
+<img src="Images/Car1.jpg" width="800">
+<img src="Images/Car2.jpg" width="800">
+
 # How to works
 1- Send command from android phone to bluetooth module. <br /> 
    (bluetooth module is on the car) <br /> 
@@ -16,8 +19,8 @@
 To controlling car from android phone we should download an android application.
 The android application is: https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=en&gl=US
 
-<img src="Images/Car1.jpg" width="800">
-<img src="Images/Car2.jpg" width="800">
+The configuration for the adroid application sould be like below: 
+<img src="Images/control_panel.jpg" width="800">
 
 # Car components
 * 1x Arduino Uno
@@ -28,3 +31,4 @@ The android application is: https://play.google.com/store/apps/details?id=com.gi
 * 4x 1.5V Alkaline Battery
 * 1x 9V Battery
 * 1x Cardboard
+
