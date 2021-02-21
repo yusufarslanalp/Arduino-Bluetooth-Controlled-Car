@@ -11,3 +11,4 @@
 * 3x Wheel
 * 4x 1.5V Alkaline Battery
 * 1x 9V Battery
+* 1x Cardboard
