@@ -1,3 +1,3 @@
 # Arduino-Bluetooth-Controlled-Car
 
-this is
+* This project is a hoby project.
