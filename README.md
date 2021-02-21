@@ -17,8 +17,10 @@
 4- Car moves with the specified direction. <br /> 
 
 To controlling car from android phone we should download an android application.
-The android application is: https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=en&gl=US
+The android application is: https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=en&gl=US<br /> 
 
+Using android aplication you can control the car. The control panel in the application is in below: <br /> 
+<img src="Images/control_panel2.jpeg" width="800">
 The configuration for the adroid application sould be like below:<br /> 
 <img src="Images/control_panel.jpeg" width="400">
 
