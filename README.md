@@ -6,9 +6,9 @@
 * [source code](bluetooth_car.ino)
 
 # How to works
-1- Send command from android phone to bluetooth module.
+1-) Send command from android phone to bluetooth module.
    (bluetooth module is on the car)
-2- Bluetooth module transmit command to arduino uno
+2-) Bluetooth module transmit command to arduino uno
    (arduino uno is on the car)
 3- Arduino uno drives electrical motors via motor driver.
 4- Car moves with the specified direction.
