@@ -20,7 +20,7 @@ To controlling car from android phone we should download an android application.
 The android application is: https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=en&gl=US
 
 The configuration for the adroid application sould be like below: 
-<img src="Images/control_panel.jpeg" width="800">
+<img src="Images/control_panel.jpeg" width="400">
 
 # Car components
 * 1x Arduino Uno
